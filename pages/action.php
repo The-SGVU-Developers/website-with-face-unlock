@@ -28,6 +28,7 @@
                 header("Location: ../index.html");
             }
 
+
             $conn->close();
         } 
     ?>
