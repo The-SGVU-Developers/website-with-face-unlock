@@ -6,6 +6,7 @@ Welcome to our project that was is a website with face unlock.
 
 To run the website you use localhost like xampp.
 
+
 1. run your localhost PHP MYADMIN
 2. make a database name WWFU
 3. go to the import section and import .SQL file
